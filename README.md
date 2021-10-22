@@ -8,6 +8,7 @@ Desenvolvido no Curso Formação nodeJS do Guia do programador.
 ## Tecnologias Utilizadas
 
     - NodeJS
+    - Express
     - MySQL
     - Bootstrap
     - EJS
